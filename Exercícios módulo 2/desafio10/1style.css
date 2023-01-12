@@ -2,7 +2,7 @@
 
 @font-face{
 font-family: 'Android';
-src: url('/idroid.otf') format('opentype');
+src: url('/Exercícios módulo 2/desafio10/idroid.otf') format('opentype');
 font-weight:normal;
 }
 
@@ -25,7 +25,7 @@ padding:0px;
 
 
 body {
-background-color: var(--cor0)
+background-color: var(--cor1);
 font-family: var(--fonte-padrao);
 }
 
@@ -197,3 +197,4 @@ text-decoration:none;
 footer:hover{
 text-decoration: underline;
 color: var(--cor1);
+}
