@@ -1,0 +1,20 @@
+body {
+height: 100vh;
+background-color: grey;
+background-image: url('/Exercícios módulo 2/desafio11/img/espaco.jpg');
+background-position: center top;
+background-repeat:no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+
+}
+
+#content {
+height: 100vh;
+background: url('/Exercícios módulo 2/desafio11/img/astronauta.png') center center no-repeat;
+background-size: contain;
+background-attachment:fixed;
+
+
+}
